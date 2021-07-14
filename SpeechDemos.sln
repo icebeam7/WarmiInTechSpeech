@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechToTextApp", "SpeechToTextApp\SpeechToTextApp.csproj", "{A940BA8F-C6AF-4F6C-A37A-2972265D6540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeechApp", "TextToSpeechApp\TextToSpeechApp.csproj", "{FAEB270C-23DB-4982-BF93-A9C065433278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A940BA8F-C6AF-4F6C-A37A-2972265D6540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A940BA8F-C6AF-4F6C-A37A-2972265D6540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A940BA8F-C6AF-4F6C-A37A-2972265D6540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A940BA8F-C6AF-4F6C-A37A-2972265D6540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEB270C-23DB-4982-BF93-A9C065433278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEB270C-23DB-4982-BF93-A9C065433278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEB270C-23DB-4982-BF93-A9C065433278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEB270C-23DB-4982-BF93-A9C065433278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFCB12B9-2614-4F17-9628-3206481E76A9}
+	EndGlobalSection
+EndGlobal
